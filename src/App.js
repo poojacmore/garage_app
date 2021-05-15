@@ -2,7 +2,7 @@
 import "./App.css";
 
 function App() {
-  return <div>Hello Azure</div>;
+  return <div>Hello from Azure</div>;
 }
 
 export default App;
